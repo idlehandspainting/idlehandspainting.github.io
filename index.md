@@ -80,6 +80,10 @@ List elements provided in no particular order or organization.
 	- Largely high fantasy
 	- <https://www.warmongerminiatures.com/>
 
+- Scourge Scenics
+	- Space ships!
+	- <https://www.scourgescenics.co.uk/>
+
 - North Star Military Figures
 	- Large range covering high fantasy, historicals, and sci-fi
 	- <https://www.northstarfigures.com>
@@ -101,6 +105,10 @@ List elements provided in no particular order or organization.
 	- Ships to US/UK just fine
 	- <https://heresylab.com/>
 
+- Winter's Bioforge
+	- Space bug ships!
+	- <https://wintersbioforge.com/>
+
 ## Busts and dioramas
 
 - Gilded Lion Miniatures
@@ -108,6 +116,13 @@ List elements provided in no particular order or organization.
 	- Fantasy and mythological themes
 	- 3D-printed in 8k resin
 	- <https://gildedlionminiatures.com>
+
+- Mindwork Games
+	- Mythological and fantasy themes
+	- ~75mm-100mm scale
+	- Cast in resin
+	- Based in Italy
+	- <https://mindworkgames.net/collections/miniatures>
 
 ## Paints
 
