@@ -25,6 +25,7 @@ List elements provided in no particular order or organization.
 	- 28mm scale or similar
 	- Hand-sculpted
 	- Variety of historical, high fantasy, and sci-fi models
+	- <https://gorgon-studios.myshopify.com/>
 
 - Dark Sword Miniatures
 	- Classical designs
