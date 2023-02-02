@@ -1,4 +1,4 @@
-# Idle Handing Painting 
+# Idle Hands Painting 
 
 All information contained herein should be assumed to be inaccurate and misleading. 
 
@@ -94,7 +94,8 @@ List elements provided in no particular order or organization.
 - Cadwallon
 	- Contemporary designs
 	- Cast in resin
-	- Mostly 32mmscale
+	- Mostly 32mm
+scale
 	- Variety of high fantasy, and sci-fi models
 	- Appear to be digitally sculpted
 	- Has compatible lines for Confrontation and Infinity
