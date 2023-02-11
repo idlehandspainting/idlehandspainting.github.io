@@ -39,7 +39,14 @@ List elements provided in no particular order or organization.
 	- <https://ironwindmetals.com/>
 
 - Reaper Miniatures
+	- Has just about everything
 	- <https://www.reapermini.com/>
+
+- Satyr Art Studio
+	- Classical designs
+	- Fantasy and sci-fi ranges
+	- Cast in metal
+	- <https://satyrartstudio.ecwid.com/>
 
 ### UK
 
@@ -89,6 +96,32 @@ List elements provided in no particular order or organization.
 	- Large range covering high fantasy, historicals, and sci-fi
 	- <https://www.northstarfigures.com>
 
+- Footsore Miniatures & Games
+	- Classical designs
+	- Range covers fantasy and historicals
+	- By Trish Carden (Morrisson)
+	- <https://footsoreminiatures.co.uk/collections/harrowhyrst>
+
+- Westwind
+	- Fantasy and historical lines
+	- More classical than contemporary designs
+	- <https://www.westwindproductions.co.uk/index.php?route=common/home>
+
+- Ralpartha Europe
+	- Large and varying range of designs and models
+	- <https://www.ralparthaeurope.co.uk/shop/>
+
+- Krakon Games
+	- Classical designs
+	- Largely fantasy range
+	- Personable monster sculpts
+	- <https://krakongames.com/>
+
+- CP Models
+	- Classical designs
+	- Range covers historicals, fantasy, and sci-fi
+	- <https://cpmodels.co.uk/>
+
 ### Other regions
 
 - Cadwallon
@@ -110,6 +143,12 @@ scale
 - Winter's Bioforge
 	- Space bug ships!
 	- <https://wintersbioforge.com/>
+
+- Knightmare Miniatures
+	- Classical designs
+	- Cast in metal
+	- Fantasy and sci-fi ranges
+	- <https://knightmareminiatures.com/>
 
 ## Busts and dioramas
 
