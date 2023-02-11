@@ -150,6 +150,12 @@ scale
 	- Fantasy and sci-fi ranges
 	- <https://knightmareminiatures.com/>
 
+- Redmoon Miniatures
+	- Classical designs
+	- Cast in metal
+	- Based in Italy
+	- <https://redmoonminiatures.com/shop-home/negozio/>
+
 ## Busts and dioramas
 
 - Gilded Lion Miniatures
